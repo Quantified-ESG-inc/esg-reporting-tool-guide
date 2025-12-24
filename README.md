@@ -45,3 +45,5 @@ ESG팀으로부터데이터 입력 및 보고서  작성을     요청받은 분
 {% endcolumn %}
 {% endcolumns %}
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Zero to Web</strong></td><td>웹 보고서로 ESG 보고서 첫 발간하기</td><td></td><td></td><td><a href="/broken/pages/7FvWQMF0kTK7HGhlQfmo">Broken link</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>PDF to Web</strong> </td><td>PDF 보고서를 웹 보고서로 전환하기</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr></tbody></table>
+
