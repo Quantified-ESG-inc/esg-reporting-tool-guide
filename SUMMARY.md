@@ -1,3 +1,3 @@
 # Table of contents
 
-* [페이지 테스트](README.md)
+* [ERT 사용자 가이드](README.md)
