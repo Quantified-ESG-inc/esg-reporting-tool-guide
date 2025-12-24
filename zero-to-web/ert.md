@@ -1,6 +1,6 @@
 # \[도입] ERT 시작하기
 
-## ESG Reporting Tool (ERT)란 무엇인가요?
+### ESG Reporting Tool (ERT)란 무엇인가요?
 
 ERT(ESG Reporting Tool)는 기업의 복잡한 ESG 데이터를 체계적으로 관리하고, 글로벌 공시 기준에 부합하는 보고서를 신속하게 생성할 수 있도록 지원하는 ESG 공시 전문 솔루션입니다.
 
@@ -17,7 +17,9 @@ ERT(ESG Reporting Tool)는 기업의 복잡한 ESG 데이터를 체계적으로 
 
 ***
 
-#### 🎯 ERT가 해결하는 실무 고민
+
+
+## ERT로 시작해야 하는 이유: "손쉬운 첫 보고서 발행"
 
 초보 담당자가 겪는 3대 어려움을 시스템적으로 해결합니다.
 
