@@ -32,9 +32,7 @@ ERT(ESG Reporting Tool)는 기업의 복잡한 ESG 데이터를 체계적으로 
 **📅 발간 시점 결정 시 유의사항**
 
 * 평가 대응 여부 확인: 한국ESG기준원(KCGS) 등의 외부 평가에 우리 기업의 최신 노력을 반영하려면 발간 시점이 매우 중요합니다.
-* 시점 가이드 확인: 상세한 발간 전략은 [우리 회사에 맞는 발간 시점 정하기](https://app.gitbook.com/s/GKCm3jv7oKZo5mOumj8n/undefined) 또는문서를 참고하시기  바랍니다.&#x20;
+* 시점 가이드 확인: 상세한 발간 전략은 [우리 회사에 맞는 발간 시점 정하기](https://app.gitbook.com/s/GKCm3jv7oKZo5mOumj8n/undefined) 또는 [발간 로드맵 작성하기](https://app.gitbook.com/s/GKCm3jv7oKZo5mOumj8n/undefined-1) 문서를 참고하시기  바랍니다.&#x20;
 
-{% content-ref url="https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/GKCm3jv7oKZo5mOumj8n/" %}
-[아티클](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/GKCm3jv7oKZo5mOumj8n/)
-{% endcontent-ref %}
+
 
