@@ -6,8 +6,6 @@
 
 * [\[도입\] ERT 시작하기](zero-to-web/ert.md)
 * [\[1단계\] 새 보고서 생성하기](zero-to-web/1.md)
-* [Page](zero-to-web/page.md)
-* [Page 1](zero-to-web/page-1.md)
 * [\[2단계\] 맞춤형 지표 및 체계 설계](zero-to-web/2.md)
 * [\[3단계\] 데이터 수집 및 실무 협업](zero-to-web/3.md)
 * [\[4단계\] 보고서 작성 및 성과 시각화](zero-to-web/4.md)
