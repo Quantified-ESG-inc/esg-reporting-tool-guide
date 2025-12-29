@@ -2,6 +2,7 @@
 
 * [ERT 사용자 가이드](README.md)
   * [회원가입](ert/undefined.md)
+  * [결제하기](ert/undefined-1.md)
 
 ## Zero to Web
 
