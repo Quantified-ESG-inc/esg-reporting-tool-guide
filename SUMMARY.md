@@ -20,7 +20,10 @@
 * [\[4단계\] 보고서 작성 및 성과 시각화](zero-to-web/4/README.md)
   * [팀원과 협업하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/64/zero-to-web/2#undefined-6)
   * [시각적 요소 추가하기](zero-to-web/4/undefined.md)
-* [\[5단계\] 최종 검증 및 웹 보고서 발간](zero-to-web/5.md)
+* [\[5단계\] 검증, 번역 및 웹 보고서 발간](zero-to-web/5/README.md)
+  * [검증하기](zero-to-web/5/undefined.md)
+  * [번역하기](zero-to-web/5/undefined-1.md)
+  * [최종 보고서 발간하기 (웹, PDF)](zero-to-web/5/pdf.md)
 * [자주 묻는 질문 및 우수 사례](zero-to-web/undefined.md)
 
 ## PDF to Web
