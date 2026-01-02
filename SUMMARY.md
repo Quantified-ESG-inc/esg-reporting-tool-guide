@@ -7,7 +7,8 @@
 ## Zero to Web
 
 * [\[도입\] ERT 시작하기](zero-to-web/ert.md)
-* [\[1단계\] 새 보고서 생성하기](zero-to-web/1.md)
+* [\[1단계\] 새 보고서 생성하기](zero-to-web/1/README.md)
+  * [메인 페이지 제작하기](zero-to-web/1/undefined.md)
 * [\[2단계\] 팀원 초대하기](zero-to-web/2/README.md)
   * [팀원 초대 및 내보내기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/2#undefined-1)
   * [팀원 권한 관리하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/2#undefined-3)
