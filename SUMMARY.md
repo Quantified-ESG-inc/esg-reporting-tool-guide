@@ -8,8 +8,8 @@
 
 * [\[도입\] ERT 시작하기](zero-to-web/ert.md)
 * [\[1단계\] 새 보고서 생성하기](zero-to-web/1.md)
-* [\[2단계\] 목차 작성하기](zero-to-web/2.md)
-* [\[3단계\] 데이터 수집 및 실무 협업](zero-to-web/3.md)
+* [\[2단계\] 팀원 초대하기](zero-to-web/2.md)
+* [\[3단계\] 목차 작성하기](zero-to-web/3.md)
 * [\[4단계\] 보고서 작성 및 성과 시각화](zero-to-web/4.md)
 * [\[5단계\] 최종 검증 및 웹 보고서 발간](zero-to-web/5.md)
 * [자주 묻는 질문 및 우수 사례](zero-to-web/undefined.md)
