@@ -16,7 +16,8 @@
   * [방법1 : 새 목차 생성하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/3#id-1)
   * [방법2: 산업별 목차 불러오기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/3#id-2-1)
   * [방법3: 샘플 불러오기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/3#id-3-2)
-* [\[4단계\] 보고서 작성 및 성과 시각화](zero-to-web/4.md)
+* [\[4단계\] 보고서 작성 및 성과 시각화](zero-to-web/4/README.md)
+  * [팀원과 협업하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/64/zero-to-web/2#undefined-6)
 * [\[5단계\] 최종 검증 및 웹 보고서 발간](zero-to-web/5.md)
 * [자주 묻는 질문 및 우수 사례](zero-to-web/undefined.md)
 
