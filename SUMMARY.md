@@ -14,7 +14,6 @@
   * [팀원 권한 관리하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/2#undefined-3)
   * [소유 권한 양도하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/2#undefined-5)
 * [\[3단계\] 목차 작성하기](zero-to-web/3.md)
-  * [Page 1](zero-to-web/3/page-1.md)
   * [방법1 : 새 목차 생성하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/3#id-1)
   * [방법2: 산업별 목차 불러오기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/3#id-2-1)
   * [방법3: 샘플 불러오기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/63/zero-to-web/3#id-3-2)
