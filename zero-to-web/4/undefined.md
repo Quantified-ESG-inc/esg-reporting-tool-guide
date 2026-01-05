@@ -5,18 +5,18 @@
 텍스트 위주의 정보를 시각화하면 이해관계자들이 우리 기업의 성과를 훨씬 빠르고 정확하게 파악할 수 있습니다.
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 #### 🎨 다이어그램 & 도식&#x20;
 
 복잡한 논리와 체계를 한눈에 시각화할 때 사용합니다.
 
 * 언제 쓰나요?: ESG 추진 전략, 거버넌스 체계도, 중요성 평가 프로세스, 가치사슬(Value Chain) 설명, 조직도 등.
-* 강점: 텍스트로 나열된 전략이나 추진 체계의 인과관계를 명확히 보여주어 보고서의 전문성과 신뢰도를 획기적으로 높여줍니다/
+* 강점: 텍스트로 나열된 전략이나 추진 체계의 인과관계를 명확히 보여주어 보고서의 전문성과 신뢰도를 획기적으로 높여줍니다.
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 ```
-// Some code
+<p><br /><br /><strong style="color: #00695c;">[연도별 온실가스 배출량 현황]</strong></p><table style="width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 14px; border-top: 2px solid #00695c; border-bottom: 1px solid #00695c;"><thead><tr style="background-color: #00897b; color: #ffffff;"><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">구분</th><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">단위</th><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">2021년</th><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">2022년</th><th style="padding: 12px 8px; text-align: center;">2023년</th></tr></thead><tbody><tr style="border-bottom: 1px solid #e0f2f1;"><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">Scope 1 (직접배출)</td><td style="padding: 10px 8px; text-align: center; color: #666; border-right: 1px solid #e0e0e0;">tCO2eq</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">15,420</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">14,800</td><td style="padding: 10px 8px; text-align: center; color: #333;">13,950</td></tr><tr style="border-bottom: 1px solid #b2dfdb;"><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">Scope 2 (간접배출)</td><td style="padding: 10px 8px; text-align: center; color: #666; border-right: 1px solid #e0e0e0;">tCO2eq</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">22,100</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">21,500</td><td style="padding: 10px 8px; text-align: center; color: #333;">20,100</td></tr><tr style="background-color: #e0f2f1; font-weight: bold; color: #004d40;"><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">합계</td><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">tCO2eq</td><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">37,520</td><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">36,300</td><td style="padding: 12px 8px; text-align: center;">34,050</td></tr></tbody></table>
 ```
 {% endcolumn %}
 {% endcolumns %}
@@ -114,7 +114,7 @@
 
 {% embed url="https://app.arcade.software/share/v7Yp4PFqf1kImBCWq99a" %}
 
-#### 자료를 이미지로 캡쳐해  AI 도우미를 통해 보고서용 전문 디자인으로 다듬을 수도 있습니다.
+#### 자료를 이미지로 캡쳐해  AI 도우미를 통해 표로 다듬을 수도 있습니다.
 
 * 텍스트 복사가 불가능한 보안 PDF나 웹사이트의 그래프 등 보고서에 넣고 싶은 영역을 캡처 도구로 스캔하여 이미지 파일(PNG, JPG)로 저장합니다.
   * 팁: 문서 전체를 캡처하기보다 분석이 필요한 특정 표나 차트 위주로 캡처하면 AI의 인식률이 더욱 높아집니다.
