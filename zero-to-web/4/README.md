@@ -8,7 +8,7 @@
 
 보유하고 있는 사내 자료  또는   원고 초안을 AI 도우미에게 전달하여 보고서 원고를 자동 생성하는 방법입니다.
 
-{% embed url="https://app.arcade.software/share/EZ1aezuEtau6HI9Xp7SP" %}
+{% @arcade/embed flowId="EZ1aezuEtau6HI9Xp7SP" url="https://app.arcade.software/share/EZ1aezuEtau6HI9Xp7SP" %}
 
 {% stepper %}
 {% step %}
@@ -55,7 +55,7 @@
 
 참고할 수 있는 파일이나 텍스트가 없는 상황에서도 AI가 제안하는 초안을 바탕으로 보고서 작성을 시작할 수 있습니다.
 
-{% embed url="https://app.arcade.software/share/4oSUsMsfS53SLgMUHKDz" %}
+{% @arcade/embed flowId="4oSUsMsfS53SLgMUHKDz" url="https://app.arcade.software/share/4oSUsMsfS53SLgMUHKDz" %}
 
 {% stepper %}
 {% step %}
@@ -97,7 +97,7 @@
 
 AI가 생성한 답변이 우리 기업의 의도와 딱 맞을 때까지 반복해서 다듬고 디자인을 변경할 수 있습니다.
 
-{% embed url="https://app.arcade.software/share/zlunv2KWolhtOfTwgCEP" %}
+{% @arcade/embed flowId="zlunv2KWolhtOfTwgCEP" url="https://app.arcade.software/share/zlunv2KWolhtOfTwgCEP" %}
 
 
 
