@@ -53,7 +53,7 @@
 
 💡  각 단계에 대한 상세한 화면 설명과 클릭 위치는 아래의 개별 가이드 페이지에서 확인하세요.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-list-check">:list-check:</i> </td><td>검증하기</td><td><a href="undefined.md">undefined.md</a></td></tr><tr><td><i class="fa-globe">:globe:</i> </td><td>번역하기</td><td><a href="undefined-1.md">undefined-1.md</a></td></tr><tr><td><i class="fa-scroll">:scroll:</i> </td><td>최종 보고서 발간하기</td><td><a href="pdf.md">pdf.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-list-check">:list-check:</i> </td><td>검증하기</td><td><a href="undefined.md">undefined.md</a></td><td><a href="undefined.md">undefined.md</a></td></tr><tr><td><i class="fa-globe">:globe:</i> </td><td>번역하기</td><td><a href="undefined-1.md">undefined-1.md</a></td><td><a href="undefined-1.md">undefined-1.md</a></td></tr><tr><td><i class="fa-scroll">:scroll:</i> </td><td>최종 보고서 발간하기</td><td><a href="pdf.md">pdf.md</a></td><td><a href="pdf.md">pdf.md</a></td></tr></tbody></table>
 
 
 
