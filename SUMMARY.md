@@ -27,7 +27,7 @@
   * [메인 페이지 제작하기](pdf-to-web/1/undefined.md)
 * [\[2단계\] 팀원 초대하기](pdf-to-web/2.md)
 * [\[3단계\] 목차 작성하기](pdf-to-web/3.md)
-* [\[4단계\] PDF 보고서 Web으로 변환하기](pdf-to-web/4-pdf-web/README.md)
+* [\[4단계\] PDF 보고서 Web으로 변환하기](pdf-to-web/4-pdf-web.md)
   * [시각적 요소 추가하기](pdf-to-web/4-pdf-web/undefined.md)
   * [팀원과 협업하기](https://app.gitbook.com/o/CQTBWF1kqI1rGp3YBsxY/s/iEGcrNrZkkVGpUvsXkgr/~/edit/~/changes/64/zero-to-web/2#undefined-6)
 * [\[5단계\] 검증, 번역 및 웹 보고서 발간](pdf-to-web/5/README.md)
