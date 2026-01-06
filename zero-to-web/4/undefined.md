@@ -71,7 +71,7 @@
 
 텍스트로만 나열된 우리 기업의 전략이나 추진 체계를 AI 도우미를 통해 시각적인 다이어그램으로 변환해 보세요. 보고서의 전문성과 가독성이 획기적으로 높아집니다.
 
-{% embed url="https://app.arcade.software/share/NZwL0mqHGuK09AMOHiHb" %}
+{% @arcade/embed flowId="NZwL0mqHGuK09AMOHiHb" url="https://app.arcade.software/share/NZwL0mqHGuK09AMOHiHb" %}
 
 
 
@@ -116,7 +116,7 @@
 
 ## 표 만들기
 
-{% embed url="https://app.arcade.software/share/v7Yp4PFqf1kImBCWq99a" %}
+{% @arcade/embed flowId="v7Yp4PFqf1kImBCWq99a" url="https://app.arcade.software/share/v7Yp4PFqf1kImBCWq99a" %}
 
 #### 자료를 이미지로 캡쳐해  AI 도우미를 통해 표로 다듬을 수도 있습니다.
 
@@ -128,7 +128,7 @@
 * 생성된 표의 수치가 원본 이미지와 일치하는지 최종 확인한 후, \[이걸로 본문 수정] 또는 \[본문에 추가] 버튼을 클릭합니다.
   * AI 재작성 요청: \[AI로  재작성] 기능에서 "항목명을 굵게 표시해줘" 또는 "단위를 (억원)으로 추가해줘"와 같은 추가 요청을 통해 디자인을 완성할 수 있습니다.
 
-{% embed url="https://app.arcade.software/share/UUovqigIfkhW5Zc1m91m" %}
+{% @arcade/embed flowId="UUovqigIfkhW5Zc1m91m" url="https://app.arcade.software/share/UUovqigIfkhW5Zc1m91m" %}
 
 #### 엑셀의 표 형식을 **텍스트**로  가져와 AI 도우미를 통해 표를 생성할 수도 있습니다.
 
@@ -173,7 +173,7 @@
 
 ## 그래프 만들기
 
-{% embed url="https://app.arcade.software/share/cYDwAdRHt9Ql6FLxBOMR" %}
+{% @arcade/embed flowId="cYDwAdRHt9Ql6FLxBOMR" url="https://app.arcade.software/share/cYDwAdRHt9Ql6FLxBOMR" %}
 
 #### 텍스트 원고를 바탕으로 그래프를 생성할 수도 있습니다.
 
@@ -206,7 +206,7 @@
 
 
 
-{% embed url="https://app.arcade.software/share/t2SVGr0Tcj6qvrANcu4O" %}
+{% @arcade/embed flowId="t2SVGr0Tcj6qvrANcu4O" url="https://app.arcade.software/share/t2SVGr0Tcj6qvrANcu4O" %}
 
 #### 작성된 데이터 테이블을 바탕으로 시각화된 그래프를 생성할 수도 있습니다.&#x20;
 
