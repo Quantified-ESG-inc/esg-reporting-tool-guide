@@ -15,9 +15,9 @@
 {% endcolumn %}
 
 {% column width="50%" %}
-```
-<p><br /><br /><strong style="color: #00695c;">[연도별 온실가스 배출량 현황]</strong></p><table style="width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 14px; border-top: 2px solid #00695c; border-bottom: 1px solid #00695c;"><thead><tr style="background-color: #00897b; color: #ffffff;"><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">구분</th><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">단위</th><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">2021년</th><th style="padding: 12px 8px; text-align: center; border-right: 1px solid #00796b;">2022년</th><th style="padding: 12px 8px; text-align: center;">2023년</th></tr></thead><tbody><tr style="border-bottom: 1px solid #e0f2f1;"><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">Scope 1 (직접배출)</td><td style="padding: 10px 8px; text-align: center; color: #666; border-right: 1px solid #e0e0e0;">tCO2eq</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">15,420</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">14,800</td><td style="padding: 10px 8px; text-align: center; color: #333;">13,950</td></tr><tr style="border-bottom: 1px solid #b2dfdb;"><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">Scope 2 (간접배출)</td><td style="padding: 10px 8px; text-align: center; color: #666; border-right: 1px solid #e0e0e0;">tCO2eq</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">22,100</td><td style="padding: 10px 8px; text-align: center; color: #333; border-right: 1px solid #e0e0e0;">21,500</td><td style="padding: 10px 8px; text-align: center; color: #333;">20,100</td></tr><tr style="background-color: #e0f2f1; font-weight: bold; color: #004d40;"><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">합계</td><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">tCO2eq</td><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">37,520</td><td style="padding: 12px 8px; text-align: center; border-right: 1px solid #b2dfdb;">36,300</td><td style="padding: 12px 8px; text-align: center;">34,050</td></tr></tbody></table>
-```
+[**다이어그램 & 도식  만들기 바로가기**](undefined.md#undefined-3)
+
+다이어그램 & 도식 만들기에 유용한 작성 요청 문구(프롬프트)도 함께 확인해 보세요.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -34,7 +34,9 @@
 {% endcolumn %}
 
 {% column %}
+[**표 만들기 바로가기**](undefined.md#undefined-5)
 
+표 만들기에 유용한 작성 요청 문구(프롬프트)도 함께 확인해 보세요.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -51,7 +53,9 @@
 {% endcolumn %}
 
 {% column %}
+[**그래프 만들기 바로가기**](undefined.md#undefined-5)
 
+그래프 만들기에 유용한 작성 요청 문구(프롬프트)도 함께 확인해 보세요.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -95,7 +99,7 @@
 {% endstepper %}
 
 {% hint style="info" %}
-#### 💡시각화를 위한 AI 도우미 프롬프트 예시
+#### 💡다이어그램, 도식을 위한 AI 도우미 프롬프트 예시
 
 도식 디자인 작성 시, 사용자가 원하는 구조를 명시하거나 구체적인 디자인 색감을 요청해 보세요. 이렇게 상세한 가이드를 제공하면 사용자의 의도에 더욱 가까운 완성도 높은 초안을 받을 수 있습니다.
 
