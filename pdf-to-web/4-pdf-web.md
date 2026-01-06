@@ -8,7 +8,7 @@
 
 
 
-{% embed url="https://app.arcade.software/share/FwLpE1hohMfWLDlJauMk" %}
+{% @arcade/embed flowId="FwLpE1hohMfWLDlJauMk" url="https://app.arcade.software/share/FwLpE1hohMfWLDlJauMk" %}
 
 
 
@@ -50,7 +50,7 @@ AI로 변환한 웹 보고서 초안은 AI 재작성 기능을 활용하여 수�
 
 작년의 PDF 내용을 기반으로 올해 내용을 쉽게 작성해 보세요.
 
-{% embed url="https://app.arcade.software/share/BNrxatLBSKBaxLDAXYps" %}
+{% @arcade/embed flowId="BNrxatLBSKBaxLDAXYps" url="https://app.arcade.software/share/BNrxatLBSKBaxLDAXYps" %}
 
 
 
