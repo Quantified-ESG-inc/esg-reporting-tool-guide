@@ -34,7 +34,7 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
 {% hint style="warning" %}
 기업 전용 도메인 설정
 
-기본 제공되는&#x20;"https://report.qesg.co.kr/\~" 주소 외에 기업 자체 도메인(예: https://www.google.com/search?q=sustainability.company.com)으로 설정을 원하시는 경우, QESG 문의하기를 통해 별도로 연락 주시기 바랍니다.
+기본 제공되는&#x20;"https://report.qesg.co.kr/\~" 주소 외에 기업 자체 도메인(예: https://www.google.com/search?q=sustainability.company.com)으로 설정을 원하시는 경우, [QESG 문의하기](http://odvvp.channel.io/)를 통해 별도로 연락 주시기 바랍니다.
 {% endhint %}
 
 
@@ -52,16 +52,17 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
   * 보고서 공개를 위해 \*\*\[공개하기]\*\*를 클릭하면, 30일 후 QESG 플랫폼에서 해당 보고서를 GRI에 자동으로 통보해 드립니다.
   * 통보되는 내용에는 조직명, 보고 문의처, 보고서 링크, GRI content index가 포함된 산출물이 포함됩니다.
   * 참고: GRI Standards 2021 기준을 활용한 경우 GRI 통보는 필수 사항입니다.
+  * 만약 통보 일정을 조정하고 싶으신 경우 [QESG 문의하기](http://odvvp.channel.io/)를 통해 변경하실 수 있습니다.&#x20;
 
 
 
 
 
+***
 
 
 
-
-### 최종 보고서 발간 (PDF)
+## 최종 보고서 발간 (PDF)
 
 웹 보고서와 더불어 오프라인 활용도가 높은 PDF 형식의 보고서를 생성하고 출력할 수 있습니다. 기업 홈페이지가 없는 경우에도 외부 평가기관이나 투자자의 데이터 요구에 신속하게 대응할 수 있는 유용한 수단입니다.
 
