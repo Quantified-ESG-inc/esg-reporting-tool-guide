@@ -8,7 +8,7 @@ description: ESG Reporting Tool에서 우리 기업만의 새로운 보고서를
 
 
 
-{% embed url="https://app.arcade.software/share/FqpgCFH5i4TS6vUqck5H" %}
+{% @arcade/embed flowId="FqpgCFH5i4TS6vUqck5H" url="https://app.arcade.software/share/FqpgCFH5i4TS6vUqck5H" %}
 
 
 

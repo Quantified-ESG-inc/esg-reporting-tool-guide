@@ -4,7 +4,7 @@
 
 보고서의 얼굴인 메인 페이지를 어떻게 꾸며야 할지 고민되시나요? AI 도우미가 보고서의 주제와 기업 정보를 분석하여 최적의 메인 디자인을 제안해 드립니다.
 
-{% embed url="https://app.arcade.software/share/ey8WqQYVA0PzEuXhYumi" %}
+{% @arcade/embed flowId="ey8WqQYVA0PzEuXhYumi" url="https://app.arcade.software/share/ey8WqQYVA0PzEuXhYumi" %}
 
 
 
@@ -69,7 +69,7 @@ AI 도우미 프롬프트 활용 가이드
 
 이미 생성된 메인 페이지의 디자인이나 텍스트가 조금 아쉽다면, AI에게 구체적인 요구사항을 전달하여 실시간으로 수정해 보세요.
 
-{% embed url="https://app.arcade.software/share/9dMCGxSKUyRdbWRm6xYZ" %}
+{% @arcade/embed flowId="9dMCGxSKUyRdbWRm6xYZ" url="https://app.arcade.software/share/9dMCGxSKUyRdbWRm6xYZ" %}
 
 
 

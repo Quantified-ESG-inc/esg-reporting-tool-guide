@@ -8,9 +8,9 @@ description: >-
 
 
 
+## 회원가입하기
 
-
-{% embed url="https://app.arcade.software/share/1SsWB1h9LTS9w8HbsJbG" %}
+{% @arcade/embed flowId="1SsWB1h9LTS9w8HbsJbG" url="https://app.arcade.software/share/1SsWB1h9LTS9w8HbsJbG" %}
 
 #### 1. 회원가입 페이지 접속하기
 
@@ -22,7 +22,7 @@ description: >-
 
 
 
-{% embed url="https://app.arcade.software/share/HeBMLECO4kbrWfkx2yGA" %}
+{% @arcade/embed flowId="HeBMLECO4kbrWfkx2yGA" url="https://app.arcade.software/share/HeBMLECO4kbrWfkx2yGA" %}
 
 #### 2. 가입 정보 입력하기
 
@@ -59,3 +59,56 @@ description: >-
 
 * \[로그인 하기] 버튼을 클릭하여 방금 가입한 계정 정보를 입력해 주세요.
 * 로그인 후 바로 ESG Reporting Tool의 다양한 기능을 이용하실 수 있습니다.
+
+
+
+
+
+## 비밀번호 찾기
+
+{% @arcade/embed flowId="ykwiHqYFXJVzrtvAMxCg" url="https://app.arcade.software/share/ykwiHqYFXJVzrtvAMxCg" %}
+
+
+
+{% stepper %}
+{% step %}
+#### 1단계. 비밀번호 재설정 요청하기
+
+* 메뉴 진입: 로그인 화면 하단에 위치한 \[비밀번호 찾기] 버튼을 클릭하여 재설정 화면으로 진입합니다.
+* 이메일 입력: 가입 시 사용했던 이메일 주소를 입력한 후, 인증 메일 발송 버튼을 눌러 본인 확인 절차를 시작합니다.
+
+{% hint style="info" %}
+가입하신 이메일이 기억나지 않을 경우, [QESG 문의하기](https://odvvp.channel.io)를 통해 연락해 주시면 도와드리겠습니다.
+{% endhint %}
+
+
+{% endstep %}
+
+{% step %}
+#### 2단계. 본인 확인 및 인증하기
+
+* 메일함 확인: 입력한 이메일로 발송된 ‘비밀번호 재설정’ 안내 메일을 확인합니다.
+* 인증 완료: 메일에 포함된 인증 코드를 복사 후 화면에 입력하거나, \[비밀번호 변경하기] 버튼을 클릭하여 인증 단계를 완료합니다.
+* 반드시 아래 비밀번호 재설정을 통해 임시 비밀번호를 변경하시기 바랍니다.&#x20;
+{% endstep %}
+{% endstepper %}
+
+
+
+
+
+## 비밀번호 재설정
+
+{% @arcade/embed flowId="SwMKYq241XOQiREj3qBH" url="https://app.arcade.software/share/SwMKYq241XOQiREj3qBH" %}
+
+#### 비밀번호 재설정 시작
+
+비밀번호를 잊어버린 경우, 아래 단계를 통해 안전하게 계정 액세스를 복구할 수 있습니다.
+
+* 재설정 요청: 로그인 화면 상단의 프로필 아이콘(내 계정 정보)을 클릭해서 내 계정 관리 메뉴로 이동합니다.
+* 정보 수정: \[내 정보 수정하기] 버튼을 눌러 내 계정 정보를 변경할 수 있습니다.
+* 비밀번호 변경: 비밀번호 변경하기를 눌러 비밀번호를 재설정해 주세요.
+* 저장: 새로운 비밀번호를 입력 후 하단의 \[내 정보 저장하기]를 클릭해 저장하세요.
+
+
+
