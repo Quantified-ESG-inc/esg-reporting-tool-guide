@@ -116,7 +116,13 @@ QESG 플랫폼은 보고서 발간 목적과 참여 인원에 따라 네 가지 
 
 
 * 이중 중요성 평가, 공급망 평가, 기후 컨설팅(TCFD, 탄소중립 로드맵 수립) 등 전문적인 컨설팅을 받으실 수 있습니다.
-* 기업의 ESG 고도화를 위해 전문가의 도움이 필요하시다면 주저 말고 '[QESG 문의하기](https://odvvp.channel.io)'를 통해 상담을 요청해 주세요. 기업별 상황에 최적화된 컨설팅 파트너십을 제안해 드립니다
+* 기업의 ESG 고도화를 위해 전문가의 도움이 필요하시다면 주저 말고 '[QESG 문의하기](https://odvvp.channel.io)'를 통해 상담을 요청해 주세요. 기업별 상황에 최적화된 컨설팅 파트너십을 제안해 드립니다.
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-database">:database:</i></td><td><h4>ESG 데이터 수집·관리 플랫폼</h4></td><td>Data Management System</td><td>흩어진 ESG 데이터를 통합적으로 관리할 수 있도록 데이터 수집부터 검증까지 전 과정을 지원합니다.</td><td><a href="https://qesg.co.kr/data_management">https://qesg.co.kr/data_management</a></td></tr><tr><td><i class="fa-earth-asia">:earth-asia:</i></td><td><h4>공급망 ESG 평가</h4></td><td>QESG Assessment</td><td>산업별 맞춤형 평가 지표와 국제 표준을 기반으로 체계적인 공급망평가를 제공합니다.</td><td><a href="https://qesg.co.kr/assessment">https://qesg.co.kr/assessment</a></td></tr><tr><td><i class="fa-cloud">:cloud:</i></td><td><h4>온실가스 관리</h4></td><td>Carbon</td><td>협력사 온실가스 배출량의 통합 수집 및 모니터링은 물론, 데이터 산정과 제3자 검증, 보고서 산출까지 전 과정을 효율적으로 관리할 수 있습니다.</td><td><a href="https://qesg.co.kr/carbon">https://qesg.co.kr/carbon</a></td></tr></tbody></table>
+
+
 
 ***
 
