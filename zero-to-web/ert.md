@@ -15,7 +15,7 @@ description: >-
 
 ## ESG Reporting Tool (ERT)란 무엇인가요?
 
-<mark style="color:$primary;">ERT(ESG Reporting Tool)</mark>는 기업의 복잡한 ESG 데이터를 체계적으로 관리하고, 글로벌 공시 기준에 부합하는 보고서를 신속하게 생성할 수 있도록 지원하는 <mark style="color:$primary;">ESG 웹공시 전문 솔루션입</mark>니다.
+<mark style="color:$primary;">ERT(ESG Reporting Tool)</mark>는 기업의 복잡한 ESG 데이터를 체계적으로 관리하고, 글로벌 공시 기준에 부합하는 보고서를 신속하게 생성할 수 있도록 지원하는 <mark style="color:$primary;">ESG 웹공시 전문 솔루션</mark>입니다.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
