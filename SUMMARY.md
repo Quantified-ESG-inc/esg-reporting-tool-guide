@@ -26,6 +26,7 @@
 * [\[도입\] 디지털 전환 시작하기](pdf-to-web/undefined.md)
 * [\[1단계\] 새 보고서 생성하기](pdf-to-web/1/README.md)
   * [메인 페이지 제작하기](pdf-to-web/1/undefined.md)
+  * [차년도 보고에 활용하기](pdf-to-web/1/undefined-1.md)
 * [\[2단계\] 팀원 초대하기](pdf-to-web/2.md)
 * [\[3단계\] 목차 작성하기](pdf-to-web/3.md)
 * [\[4단계\] PDF Web으로 변환하기](pdf-to-web/4-pdf-web.md)
