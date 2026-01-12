@@ -1,10 +1,11 @@
+---
+description: >-
+  기존 PDF 보고서의 표지가 단순히 제목과 연도를 보여주는 '책의 겉면'이었다면, 웹 보고서의 메인 페이지는 독자가 우리 기업의 ESG
+  성과를 가장 먼저 만나는 '디지털 랜딩 페이지'입니다. 매년 반복되던 디자인 시안 수정에서 벗어나, 이제 AI의 도움으로 우리 기업만의
+  정체성을 직접 설계해 보세요.
+---
+
 # 메인 페이지 제작하기
-
-## 메인 페이지 제작하기: 단순한 '표지'를 넘어 기업의 성과를 보여주는 얼굴로
-
-기존 PDF 보고서의 표지가 단순히 제목과 연도를 보여주는 '책의 겉면'이었다면, 웹 보고서의 메인 페이지는 독자가 우리 기업의 ESG 성과를 가장 먼저 만나는 '디지털 랜딩 페이지'입니다.
-
-매년 반복되던 디자인 시안 수정에서 벗어나, 이제 AI의 도움으로 우리 기업만의 정체성을 직접 설계해 보세요.
 
 
 
@@ -36,15 +37,11 @@ AI 도우미를 활용해 직접 메인 페이지를 디자인해 보세요.&#x2
 
 
 
+## AI로 메인 페이지 디자인하기
 
+보고서의 얼굴인 메인 페이지를 어떻게 꾸며야 할지 고민되시나요? AI 도우미가 보고서의 주제와 기업 정보를 분석하여 최적의 메인 디자인을 제안해 드립니다.
 
-
-
-
-
-{% embed url="https://app.arcade.software/share/ey8WqQYVA0PzEuXhYumi" %}
-
-\>> 기존 pdf 파일의 표지를 활용해서 메인 페이지 디자인하는 방법도 소개
+{% @arcade/embed flowId="ey8WqQYVA0PzEuXhYumi" url="https://app.arcade.software/share/ey8WqQYVA0PzEuXhYumi" %}
 
 ***
 
@@ -107,7 +104,7 @@ AI 도우미 프롬프트 활용 가이드
 
 이미 생성된 메인 페이지의 디자인이나 텍스트가 조금 아쉽다면, AI에게 구체적인 요구사항을 전달하여 실시간으로 수정해 보세요.
 
-{% embed url="https://app.arcade.software/share/9dMCGxSKUyRdbWRm6xYZ" %}
+{% @arcade/embed flowId="9dMCGxSKUyRdbWRm6xYZ" url="https://app.arcade.software/share/9dMCGxSKUyRdbWRm6xYZ" %}
 
 
 

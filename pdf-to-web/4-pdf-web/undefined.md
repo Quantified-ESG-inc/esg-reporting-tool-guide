@@ -1,3 +1,9 @@
+---
+description: >-
+  텍스트 위주의 보고서를 넘어, 한눈에 들어오는 시각 자료로 정보를 생생하게 전달해 보세요. 다이어그램과 도식, 표, 그래프 등 다양한 요소를
+  적재적소에 활용하여 데이터의 가독성을 높이고, 보고서의 완성도를 한 단계 업그레이드하는 방법을 안내해 드립니다
+---
+
 # 시각적 요소 추가하기
 
 ### 시각적 요소 추가하기: 보고서의 완성도를 높이는 방법
@@ -206,7 +212,7 @@
 
 
 
-{% embed url="https://app.arcade.software/share/t2SVGr0Tcj6qvrANcu4O" %}
+{% @arcade/embed flowId="t2SVGr0Tcj6qvrANcu4O" url="https://app.arcade.software/share/t2SVGr0Tcj6qvrANcu4O" %}
 
 #### 작성된 데이터 테이블을 바탕으로 시각화된 그래프를 생성할 수도 있습니다.&#x20;
 

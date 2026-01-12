@@ -1,12 +1,12 @@
 # 최종 보고서 발간하기 (웹, PDF)
 
-### 최종 보고서 발간 (Web)
+## 최종 보고서 발간 (Web)
 
-ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 즉시 공개할 수 있으며, 고유한 도메인 주소를 설정하여 대외 이해관계자들에게 공유할 수 있습니다.
+<mark style="color:$info;">ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 즉시 공개할 수 있으며, 고유한 도메인 주소를 설정하여 대외 이해관계자들에게 공유할 수 있습니다.</mark>
 
 
 
-{% embed url="https://app.arcade.software/share/3LWXLJBn20MfnF5rv8MP" %}
+{% @arcade/embed flowId="3LWXLJBn20MfnF5rv8MP" url="https://app.arcade.software/share/3LWXLJBn20MfnF5rv8MP" %}
 
 #### 1) 보고서 공개 메뉴 및 링크 자동 생성
 
@@ -18,7 +18,7 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
 
 자동 생성된 링크 외의 직접 주소를 수정할 수도 있습니다.
 
-{% embed url="https://app.arcade.software/share/yfJ2gulCZKLTSaFqJmE9" %}
+{% @arcade/embed flowId="yfJ2gulCZKLTSaFqJmE9" url="https://app.arcade.software/share/yfJ2gulCZKLTSaFqJmE9" %}
 
 
 
@@ -44,8 +44,6 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
 * 생성된 링크는 전체 보고서, GRI Table, SASB Table, TCFD Table, Data Center 각각에 대해 별도의 URL로 생성됩니다.
 * 각 항목 옆의 \[링크 복사] 아이콘을 클릭하여 간편하게 주소를 복사하고, 홈페이지나 보도자료 등에 활용할 수 있습니다.
 
-***
-
 #### 4) 자동 통보 서비스
 
 * GRI 자동 통보:
@@ -55,17 +53,21 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
 
 
 
+***
 
 
 
 
 
+## 최종 보고서 발간 (PDF)
 
-### 최종 보고서 발간 (PDF)
+<mark style="color:$info;">웹 보고서와 더불어 오프라인 활용도가 높은 PDF 형식의 보고서를 생성하고 출력할 수 있습니다. 기업 홈페이지가 없는 경우에도 외부 평가기관이나 투자자의 데이터 요구에 신속하게 대응할 수 있는 유용한 수단입니다.</mark>
 
-웹 보고서와 더불어 오프라인 활용도가 높은 PDF 형식의 보고서를 생성하고 출력할 수 있습니다. 기업 홈페이지가 없는 경우에도 외부 평가기관이나 투자자의 데이터 요구에 신속하게 대응할 수 있는 유용한 수단입니다.
 
-#### 1) PDF 보고서 생성 및 다운로드 방법
+
+#### PDF 보고서 생성 및 다운로드 방법
+
+{% @arcade/embed flowId="SqBuaP6NJudiLTF4ScYs" url="https://app.arcade.software/share/SqBuaP6NJudiLTF4ScYs" %}
 
 보고서의 디자인과 내용을 최종 점검한 후, 다음 단계에 따라 PDF를 추출합니다.
 
@@ -74,11 +76,28 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
    * 선택 가능 항목: 지속가능성, 환경, 사회, 거버넌스, 부록 등
 3. 파일 생성: 원하는 항목을 체크한 후 \[PDF 다운로드] 버튼을 누르면 파일 생성이 시작됩니다.
 
-#### 2) PDF 보고서의 주요 특징
+#### PDF 보고서의 주요 특징
 
 * 국/영문 동시 지원: 앞선 단계에서 생성한 영문 보고서도 국문과 동일하게 PDF 파일로 저장 및 출력이 가능합니다. 이를 통해 해외 원청사나 글로벌 투자자의 공시 요구에 즉각적으로 대응할 수 있습니다.
 * 오프라인 활용성: 인터넷 연결이 어려운 환경에서도 보고서를 검토할 수 있으며, 인쇄물 형태의 자료가 필요할 때 편리하게 활용됩니다.
 * 보관 및 아카이빙: 연도별 보고서를 PDF 파일로 관리하여 기업의 ESG 히스토리를 체계적으로 기록할 수 있습니다.
 
 
+
+***
+
+
+
+#### PDF 보고서 비활성화 하기
+
+<mark style="color:$info;">웹 보고서만 발간하고 싶으신가요? PDF 보고서 공시를 희망하지 않는 경우 PDF 보고서 발간 단계를 생략할 수 있습니다. 단, 이 경우 ‘디자인 테마 세부 설정’ 탭에서 \[출력하기 버튼 표시]를 비활성화해야 외부 이해관계자의 접근을 제한할 수 있습니다.</mark>
+
+{% @arcade/embed flowId="KIaF1NxqaiLrVBkvfu7c" url="https://app.arcade.software/share/KIaF1NxqaiLrVBkvfu7c" %}
+
+보고서 보안이나 배포 용도에 맞춰 사용자가 보고서를 인쇄하거나 PDF로 출력하는 기능을 제한할 수 있습니다.
+
+* 기본 설정 접속: 관리 화면의 메인 메뉴에서 해당 프로젝트의 \*\*\[기본 설정]\*\*으로 진입합니다.
+* 디자인 테마 설정 이동: 좌측 메뉴 리스트 중 \[디자인 테마 설정] 탭을 선택합니다.
+* 세부 설정 페이지 진입: 현재 적용되어 있는 테마 하단의 \[디자인 테마 세부 설정] 버튼을 클릭합니다.
+* 출력 버튼 비활성화: 설정 항목 중 '출력' 또는 '인쇄 버튼 표시' 토글을 찾아 \[비활성화(OFF)] 상태로 변경한 뒤 저장합니다.
 
