@@ -1,3 +1,9 @@
+---
+description: >-
+  왜 ERT로 보고서를 만들어야 할까요? 복잡한 ESG 데이터를 쉽고 직관적인 웹 보고서로 전환하는 ERT의 솔루션과, 이를 통해 변화될 우리
+  기업의 스마트한 공시 환경을 미리 살펴보세요.
+---
+
 # \[도입] ERT 시작하기
 
 ## ESG 공시, 왜 해야 하나요?
@@ -9,15 +15,9 @@
 
 ## ESG Reporting Tool (ERT)란 무엇인가요?
 
-ERT(ESG Reporting Tool)는 기업의 복잡한 ESG 데이터를 체계적으로 관리하고, 글로벌 공시 기준에 부합하는 보고서를 신속하게 생성할 수 있도록 지원하는 ESG 공시 전문 솔루션입니다.
+<mark style="color:$primary;">ERT(ESG Reporting Tool)</mark>는 기업의 복잡한 ESG 데이터를 체계적으로 관리하고, 글로벌 공시 기준에 부합하는 보고서를 신속하게 생성할 수 있도록 지원하는 <mark style="color:$primary;">ESG 웹공시 전문 솔루션입</mark>니다.
 
-
-
-
-
-
-
-
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +77,7 @@ ERT는 초보 보고서 담당자가 겪는 3대 어려움을 해결합니다.
 
 **📅 발간 시점 결정 시 유의사항**
 
-* 평가 대응 여부 확인: 한국ESG기준원(KCGS) 등의 외부 평가에 대응하기  위해선 발간 시점이 매우 중요합니다.
+* 평가 대응 여부 확인: 한국ESG기준원(KCGS) 등의 외부 평가에 대응하기 위해선 발간 시점이 매우 중요합니다.
 
 🔗 **다음 단계 확인하기** 우리 회사의 발간 로드맵이 궁금하시다면?
 

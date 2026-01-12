@@ -1,12 +1,12 @@
 # 최종 보고서 발간하기 (웹, PDF)
 
-### 최종 보고서 발간 (Web)
+## 최종 보고서 발간 (Web)
 
 ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 즉시 공개할 수 있으며, 고유한 도메인 주소를 설정하여 대외 이해관계자들에게 공유할 수 있습니다.
 
 
 
-{% embed url="https://app.arcade.software/share/3LWXLJBn20MfnF5rv8MP" %}
+{% @arcade/embed flowId="3LWXLJBn20MfnF5rv8MP" url="https://app.arcade.software/share/3LWXLJBn20MfnF5rv8MP" %}
 
 #### 1) 보고서 공개 메뉴 및 링크 자동 생성
 
@@ -18,7 +18,7 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
 
 자동 생성된 링크 외의 직접 주소를 수정할 수도 있습니다.
 
-{% embed url="https://app.arcade.software/share/yfJ2gulCZKLTSaFqJmE9" %}
+{% @arcade/embed flowId="yfJ2gulCZKLTSaFqJmE9" url="https://app.arcade.software/share/yfJ2gulCZKLTSaFqJmE9" %}
 
 
 
@@ -80,6 +80,8 @@ ESG Reporting Tool을 통해 완성된 보고서는 웹 링크(URL) 형태로 �
 * 국/영문 동시 지원: 앞선 단계에서 생성한 영문 보고서도 국문과 동일하게 PDF 파일로 저장 및 출력이 가능합니다. 이를 통해 해외 원청사나 글로벌 투자자의 공시 요구에 즉각적으로 대응할 수 있습니다.
 * 오프라인 활용성: 인터넷 연결이 어려운 환경에서도 보고서를 검토할 수 있으며, 인쇄물 형태의 자료가 필요할 때 편리하게 활용됩니다.
 * 보관 및 아카이빙: 연도별 보고서를 PDF 파일로 관리하여 기업의 ESG 히스토리를 체계적으로 기록할 수 있습니다.
+
+
 
 
 

@@ -9,6 +9,7 @@
 * [\[도입\] ERT 시작하기](zero-to-web/ert.md)
 * [\[1단계\] 새 보고서 생성하기](zero-to-web/1/README.md)
   * [메인 페이지 제작하기](zero-to-web/1/undefined.md)
+  * [차년도 보고에 활용하기](zero-to-web/1/undefined-1.md)
 * [\[2단계\] 팀원 초대하기](zero-to-web/2.md)
 * [\[3단계\] 목차 작성하기](zero-to-web/3.md)
 * [\[4단계\] 보고서 작성 및 성과 시각화](zero-to-web/4/README.md)

@@ -4,7 +4,9 @@ description: ESG Reporting Tool에서 우리 기업만의 새로운 보고서를
 
 # \[1단계] 새 보고서 생성하기
 
+{% hint style="info" %}
 [회원가입](../../ert/undefined.md), [결제](../../ert/undefined-1.md)를 마친 이후 새 보고서를 생성할 수 있습니다.&#x20;
+{% endhint %}
 
 
 
