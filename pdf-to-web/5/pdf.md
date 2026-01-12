@@ -34,7 +34,7 @@
 {% hint style="warning" %}
 기업 전용 도메인 설정
 
-기본 제공되는&#x20;"https://report.qesg.co.kr/\~" 주소 외에 기업 자체 도메인(예: https://www.google.com/search?q=sustainability.company.com)으로 설정을 원하시는 경우, QESG 문의하기를 통해 별도로 연락 주시기 바랍니다.
+기본 제공되는&#x20;"https://report.qesg.co.kr/\~" 주소 외에 기업 자체 도메인(예: https://report.회사도메인.com 등)으로 설정을 원하시는 경우,[ QESG 문의하기](https://odvvp.channel.io)를 통해 별도로 연락 주시기 바랍니다.
 {% endhint %}
 
 
