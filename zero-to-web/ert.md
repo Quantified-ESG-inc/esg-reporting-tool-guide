@@ -75,11 +75,5 @@ ERT는 초보 보고서 담당자가 겪는 3대 어려움을 해결합니다.
 
 
 
-**📅 발간 시점 결정 시 유의사항**
 
-* 평가 대응 여부 확인: 한국ESG기준원(KCGS) 등의 외부 평가에 대응하기 위해선 발간 시점이 매우 중요합니다.
-
-🔗 **다음 단계 확인하기** 우리 회사의 발간 로드맵이 궁금하시다면?
-
-* &#x20;[우리 회사에 맞는 발간 시점 정하기](https://app.gitbook.com/s/GKCm3jv7oKZo5mOumj8n/undefined) 또는 [발간 로드맵 작성하기](https://app.gitbook.com/s/GKCm3jv7oKZo5mOumj8n/undefined-1) 문서를 참고하시기 바랍니다.&#x20;
 
