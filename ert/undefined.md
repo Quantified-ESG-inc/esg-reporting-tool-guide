@@ -14,7 +14,9 @@ description: >-
 
 #### 1. 회원가입 페이지 접속하기
 
-먼저 \[[ESG Reporting Tool 홈페이지](https://report.qesg.co.kr/)]에 접속합니다. 우측 하단에 위치한 \[회원가입] 버튼을 클릭해 주세요. &#x20;
+먼저 \[[ESG Reporting Tool 회원가입 바로가기](https://report.qesg.co.kr/signup)]에 접속합니다.&#x20;
+
+또는  \[[ESG Reporting Tool 홈페이지](https://report.qesg.co.kr/)]에 접속합니다. 우측 하단에 위치한 \[회원가입] 버튼을 클릭해 주세요. &#x20;
 
 
 
